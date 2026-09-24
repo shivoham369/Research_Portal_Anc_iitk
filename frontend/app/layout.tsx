@@ -13,6 +13,12 @@ const sourceSerif = Source_Serif_4({
 
 const geist = Geist({subsets:['latin'],variable:'--font-sans'})
 
+export const metadata = {
+  verification: {
+    google: "pXhPc7pZ99SO53K8YiQeaL6IRPYAAg18wZxNZdYickE",
+  },
+};
+
 export const metadata: Metadata = {
   title: 'IIT Kanpur Research Wing',
   description: 'Explore cutting-edge research initiatives at Indian Institute of Technology Kanpur',
